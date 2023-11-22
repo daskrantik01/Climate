@@ -8,7 +8,7 @@ library(vars)
 
 #Reading the file
 
-GB_OIL_data <- read_xlsx("C:/Users/Pratibha/OneDrive/Desktop/DATA_GB_OIL.xlsx")
+GB_OIL_data <- read_xlsx("/Users/daskrantik01/Downloads/DATA_GB_OIL.xlsx")
 GB_OIL_data
 
 # Check if data uploaded is a data frame
